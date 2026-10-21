@@ -7,4 +7,5 @@ int main() {
     printf("Soma: %d\n", a + b);
     printf("Diferença: %d\n", a - b);
     printf("Produto: %d\n", a * b);
+    return 0;
 }
